@@ -1,0 +1,22 @@
+This is my first Python project!
+It asks for your username and password, then tells you how long your password is.
+
+How It Works
+You enter your username.
+
+You enter your password.
+
+The program prints how many characters are in your password.
+
+Example
+What is your username? MoMo  
+What is your password? python123  
+MoMo, your password python123, is 9 characters long.
+
+How to Run
+Open the file in Python (like in VS Code).
+
+Run the program.
+
+Follow the instructions in the terminal.
+
