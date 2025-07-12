@@ -27,5 +27,3 @@ The program:
 3. Prints a message showing the username, the password (for learning purposes only!), and the password length
 
 ---
-
-##  Running the Script
